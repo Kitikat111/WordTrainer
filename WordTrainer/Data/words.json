@@ -1,0 +1,269 @@
+﻿[
+  {
+    "Name": "Animals",
+    "Words": [
+      {
+        "Original": "Cat",
+        "Translation": "Кошка",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Dog",
+        "Translation": "Собака",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Bird",
+        "Translation": "Птица",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Elephant",
+        "Translation": "Слон",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Lion",
+        "Translation": "Лев",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Tiger",
+        "Translation": "Тигр",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Giraffe",
+        "Translation": "Жираф",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Zebra",
+        "Translation": "Зебра",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Monkey",
+        "Translation": "Обезьяна",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Bear",
+        "Translation": "Медведь",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Panda",
+        "Translation": "Панда",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Kangaroo",
+        "Translation": "Кенгуру",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Dolphin",
+        "Translation": "Дельфин",
+        "Category": "Animals"
+      },
+      {
+        "Original": "Penguin",
+        "Translation": "Пингвин",
+        "Category": "Animals"
+      }
+    ]
+  },
+  {
+    "Name": "Fruits",
+    "Words": [
+      {
+        "Original": "Apple",
+        "Translation": "Яблоко",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Banana",
+        "Translation": "Банан",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Orange",
+        "Translation": "Апельсин",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Grape",
+        "Translation": "Виноград",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Pear",
+        "Translation": "Груша",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Peach",
+        "Translation": "Персик",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Pineapple",
+        "Translation": "Ананас",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Strawberry",
+        "Translation": "Клубника",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Blueberry",
+        "Translation": "Черника",
+        "Category": "Fruits"
+      },
+      {
+        "Original": "Raspberry",
+        "Translation": "Малина",
+        "Category": "Fruits"
+      }
+    ]
+  },
+  {
+    "Name": "Verbs",
+    "Words": [
+      {
+        "Original": "To Eat",
+        "Translation": "Есть",
+        "Category": "Verbs"
+      },
+      {
+        "Original": "To Cook",
+        "Translation": "Готовить",
+        "Category": "Verbs"
+      },
+      {
+        "Original": "To Chop",
+        "Translation": "Резать",
+        "Category": "Verbs"
+      },
+      {
+        "Original": "To Boil",
+        "Translation": "Варить",
+        "Category": "Verbs"
+      },
+      {
+        "Original": "To Wash",
+        "Translation": "Мыть",
+        "Category": "Verbs"
+      },
+      {
+        "Original": "To Slice",
+        "Translation": "Нарезать",
+        "Category": "Verbs"
+      },
+      {
+        "Original": "To Season",
+        "Translation": "Приправлять",
+        "Category": "Verbs"
+      },
+      {
+        "Original": "To Serve",
+        "Translation": "Подавать",
+        "Category": "Verbs"
+      }
+    ]
+  },
+  {
+    "Name": "Professions",
+    "Words": [
+      {
+        "Original": "Doctor",
+        "Translation": "Врач",
+        "Category": "Professions"
+      },
+      {
+        "Original": "Teacher",
+        "Translation": "Учитель",
+        "Category": "Professions"
+      },
+      {
+        "Original": "Engineer",
+        "Translation": "Инженер",
+        "Category": "Professions"
+      },
+      {
+        "Original": "Artist",
+        "Translation": "Художник",
+        "Category": "Professions"
+      },
+      {
+        "Original": "Chef",
+        "Translation": "Шеф-повар",
+        "Category": "Professions"
+      },
+      {
+        "Original": "Nurse",
+        "Translation": "Медсестра",
+        "Category": "Professions"
+      },
+      {
+        "Original": "Pilot",
+        "Translation": "Пилот",
+        "Category": "Professions"
+      },
+      {
+        "Original": "Programmer",
+        "Translation": "Программист",
+        "Category": "Professions"
+      }
+    ]
+  },
+  {
+    "Name": "Technologies",
+    "Words": [
+      {
+        "Original": "Computer",
+        "Translation": "Компьютер",
+        "Category": "Technologies"
+      },
+      {
+        "Original": "Smartphone",
+        "Translation": "Смартфон",
+        "Category": "Technologies"
+      },
+      {
+        "Original": "Tablet",
+        "Translation": "Планшет",
+        "Category": "Technologies"
+      },
+      {
+        "Original": "Robot",
+        "Translation": "Робот",
+        "Category": "Technologies"
+      },
+      {
+        "Original": "Internet",
+        "Translation": "Интернет",
+        "Category": "Technologies"
+      },
+      {
+        "Original": "Software",
+        "Translation": "Программное обеспечение",
+        "Category": "Technologies"
+      },
+      {
+        "Original": "Network",
+        "Translation": "Сеть",
+        "Category": "Technologies"
+      },
+      {
+        "Original": "Virtual Reality",
+        "Translation": "Виртуальная реальность",
+        "Category": "Technologies"
+      }
+    ]
+  }
+
+
+]
